@@ -9,8 +9,6 @@
 
 # Laravel-Instagram-Clone
 
-Laravel Instagram Clone
-
 This project is a feature-rich Instagram clone built using the Laravel framework, delivering a seamless social media experience. It offers a dynamic and interactive user interface with essential features inspired by popular social networking platforms.
 
 Key Features:
