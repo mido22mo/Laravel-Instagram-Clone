@@ -1,0 +1,20 @@
+.filter1{
+    
+	filter: grayscale(1);
+}
+
+.filter2{
+    filter: saturate(155%);
+}
+
+.filter3{
+    filter: brightness(1.2);
+}
+
+.filter4{
+    filter: invert(38%) contrast(2.5);
+}
+
+.filter5{
+    filter:  hue-rotate(305deg) brightness(1.2);
+}
